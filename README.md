@@ -1,8 +1,6 @@
 <div align="center">
 <h1>Snow</h1>
 
-<img src="preview.webp" alt="startpage_7 preview" />
-
 </div>
 
 ### Main Features
