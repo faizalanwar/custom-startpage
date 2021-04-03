@@ -1,8 +1,10 @@
 <div align="center">
 <h1>Snow</h1>
 
+   
 </div>
-
+ <img src="assets/img/screen.png" alt=" image" />
+ 
 ### Main Features
 - Quick access to your favorite websites
 - Supports __web-ext__, you can build this startpage into an extension.
